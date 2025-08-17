@@ -87,7 +87,8 @@
     },
     "aosika":{
       "api":"https://aosikazy.com/api.php/provide/vod",
-      "name":"奥斯卡"
+      "name":"奥斯卡",
+      "detail":"https://aosikazy.com/"
     }
   }
 }
